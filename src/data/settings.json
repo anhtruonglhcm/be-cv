@@ -1,0 +1,109 @@
+[
+    {
+        "key": "Premium",
+        "value": {
+            "course": "100",
+            "discount": "30",
+            "lession": "20"
+        }
+    },
+    {
+        "key": "Footer",
+        "value": {
+            "address": "Số 150 Trần Não, phường Bình An, quận 2, HCM.",
+            "email": "ttc.design@gmail",
+            "facebook": "https://www.facebook.com",
+            "phoneNumber": "0987654321",
+            "youtube": "https://www.youtube.com"
+        }
+    },
+    {
+        "key": "QuestionAnswer",
+        "value": [
+            {
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ...\nexerci tation ullamco laboris nisi ... tation ullamco laboris nisi ...tation ullamco laboris nisi ...tation ullamco laboris nisi ... linh tinh nữa này",
+                "question": "Làm thế nào để đăng kí?"
+            },
+            {
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ...",
+                "question": "Làm thế nào để vào học?"
+            },
+            {
+                "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ...",
+                "question": "Làm thế nào để sử dụng điểm ưu đãi?"
+            }
+        ]
+    },
+    {
+        "key": "Feedback",
+        "value": [
+            {
+                "content": "ádasd",
+                "courseName": "giang",
+                "photo": "https://backend.beautyup.ttc.software/uploads/0e521c92977b40e2",
+                "studentName": "giang"
+            },
+            {
+                "content": "Chất lượng tuyệt vời. Giáo viên nhiệt tình, vui vẻ, dạy hay, kỹ thuật tốt. Kiến thức học có thể áp dụng nhiều vào thực tế.",
+                "courseName": "làm đẹp",
+                "photo": "https://backend.beautyup.ttc.software/uploads/1549c443bb19f748",
+                "studentName": "Trần Thị Vân Anh"
+            }
+        ]
+    },
+    {
+        "key": "Teacher",
+        "value": {
+            "description": "string",
+            "teachers": [
+                {
+                    "avatar": "string",
+                    "name": "string",
+                    "position": "string"
+                }
+            ]
+        }
+    },
+    {
+        "key": "Story",
+        "value": {
+            "content": "string",
+            "images": [
+                "string"
+            ]
+        }
+    },
+    {
+        "key": "HottestCourse",
+        "value": [
+            {
+              "courseId": null
+            }
+          ]
+    },
+    {
+        "key": "VideoIntroContact",
+        "value": {
+            "title": "string",
+            "video": "string",
+            "image": "string"
+          }
+    },
+    {
+        "key": "VideoIntro",
+        "value": {
+            "title": "string",
+            "video": "string",
+            "image": "string"
+          }
+    },
+    {
+        "key": "Contact",
+        "value": {
+            "companyName": "string",
+            "address": "string",
+            "email": "string",
+            "phoneNumber": "string"
+          }
+    }
+]
